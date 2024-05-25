@@ -51,7 +51,7 @@ function Title() {
 function About() {
   return (
     <div className="aboutMe">
-      <h1 className="howdy para">I'm a third year student at the University of British Columbia, Vancouver in BSc Combined Major in Science. My niche is front-end development but I'm still exploring other fields and am always open to learning new things.</h1>
+      <h1 className="howdy para">I'm a third year student at the University of British Columbia, Vancouver in BSc Mathematics. My niche is front-end development but I'm still exploring other fields and am always open to learning new things.</h1>
     </div>
   );
 }
